@@ -1,2 +1,3 @@
-# Arm-pythorch-pacakage
-Arm-pythorch-pacakage for cuda compute capability
+# Arm-app-installation-pacakage
+Arm-app-installation-pacakage
+ * Arm-pythorch-pacakage for cuda compute capability
