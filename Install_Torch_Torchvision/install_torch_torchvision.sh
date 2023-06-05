@@ -16,7 +16,7 @@ yes | pip3 install Cython numpy torch-1.12.0a0+2c916ef.nv22.3-cp38-cp38-linux_aa
 # TorchVision
 
 TORCH_VISION_DIR_NAME="torchvision"
-MAINPATH_TORCH_VISION=${MAINPATH}/${TORCH_VISION_DIR_NAME}
+MAINPATH_TORCH_VISION=${MAINPATH_TORCH}/${TORCH_VISION_DIR_NAME}
 TORCH_VISION_VERSION="0.13.0"
 
 # Install the dependencies libraries of TorchVision
