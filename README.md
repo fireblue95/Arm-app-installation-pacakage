@@ -1,7 +1,8 @@
-# Arm-app-installation-pacakage
 Arm-app-installation-pacakage
- * Arm-pythorch-pacakage for cuda compute capability
+===
+
+Installation packages for the arm system.
 
 * Install Jtop
 * Install PyTorch and Torchvision
-* Setting the VNC
+* Setting the VNC Server
